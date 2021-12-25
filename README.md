@@ -42,4 +42,4 @@ Font Weight: 300 e 600
 
 # ✅ **Resultado**
 
-![Image](./images/mockup.png?raw=true)
+![Image](./images/preview.png?raw=true)

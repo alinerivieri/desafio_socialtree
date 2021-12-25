@@ -10,8 +10,12 @@
   box-sizing: border-box;
 }
 
+body{
+  background: linear-gradient(68.15deg, #d3a1e7 16.62%, #5c1080 85.61%);
+}
+
 main {
-  background-color: var(--body-bg-color);
+
   font-family: 'Poppins', sans-serif;
   width: 100vw;
   height: 100vh;
